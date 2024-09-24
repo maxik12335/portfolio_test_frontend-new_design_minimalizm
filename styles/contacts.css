@@ -1,0 +1,27 @@
+.contacts {
+  height: inherit;
+  display: flex;
+  align-items: center;
+}
+
+.contacts-img {
+  width: 40px;
+  height: 40px;
+  display: block;
+  margin-left: 10px;
+}
+
+.contacts-link {
+  display: flex;
+  margin: 0 auto;
+  width: fit-content;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+.contacts-link:hover {
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+}

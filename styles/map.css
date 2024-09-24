@@ -1,0 +1,12 @@
+.map {
+  height: inherit;
+  display: flex;
+  align-items: center;
+}
+
+.iframe-map {
+  width: 800px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+}
